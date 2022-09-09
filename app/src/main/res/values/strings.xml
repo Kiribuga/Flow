@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="search_movies">Search movies</string>
+    <string name="enter_title_movie">Enter title movie</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="episode">Episode</string>
+    <string name="no_results">No results</string>
+    <string name="search_movie">Search movie</string>
+    <string name="shows_movies_from_database">Shows movies from database</string>
+</resources>
